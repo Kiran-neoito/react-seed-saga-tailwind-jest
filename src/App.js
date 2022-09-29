@@ -12,7 +12,6 @@ import * as parallelCallsExampleActionCreators from './actionCreators/parallel'
 class App extends Component {
   render() {
 
-    
     const {
       forkSpawnExampleActions,
       nonBlockingCallsExampleActions,
